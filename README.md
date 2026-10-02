@@ -92,7 +92,7 @@ The agent then:
 
 ### 1. Install and build
 ```bash
-git clone https://github.com/yashvardhancs/opportunity-hunter.git
+git clone https://github.com/usmanmughal96/opportunist-ai.git
 cd opportunity-hunter
 npm run setup            # installs dashboard dependencies and builds it
 ```

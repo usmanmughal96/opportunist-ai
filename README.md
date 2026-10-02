@@ -20,11 +20,9 @@
 ![Claude](https://img.shields.io/badge/Claude-intent_parser-D97757?logo=anthropic&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-<img src="screenshots/agent-trace.png" alt="OpportunityHunter: live agent trace" width="100%" />
 
 <sub><i>The agent plans 14 searches and runs its sources in parallel, streaming each result live.</i></sub>
 
-[![Watch the demo](https://img.shields.io/badge/▶_WATCH_THE_DEMO-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/1IWdeW_vMD8)
 
 </div>
 

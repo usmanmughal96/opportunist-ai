@@ -29,7 +29,7 @@
 ---
 
 ## 📑 Contents
-[What it does](#-what-it-does) · [Demo](#-demo) · [Quick start](#-quick-start-5-minutes) · [Lead generation methods](#-every-way-it-generates-leads) · [External apps](#-external-apps) · [Architecture](#-architecture) · [Scoring](#-opportunity-scoring) · [Reliability](#-reliability--evaluation) · [Google Sheets](#-google-sheets-setup) · [Privacy](#-privacy--responsible-use) · [Roadmap](#-roadmap)
+[What it does](#-what-it-does) · [Quick start](#-quick-start-5-minutes) · [Lead generation methods](#-every-way-it-generates-leads) · [External apps](#-external-apps) · [Architecture](#-architecture) · [Scoring](#-opportunity-scoring) · [Reliability](#-reliability--evaluation) · [Google Sheets](#-google-sheets-setup) · [Privacy](#-privacy--responsible-use) · [Roadmap](#-roadmap)
 
 ---
 
@@ -81,30 +81,6 @@ The agent then:
 | **Company Intelligence** | Why we found it, hiring signals, score breakdown, people, links |
 | **Source Graph** | Animated source graph with status for every source |
 | **Google Sheets** | One-click sync, plus CSV download |
-
----
-
-## 🎬 Demo
-
-<div align="center">
-
-[![Watch the OpportunityHunter demo](https://img.youtube.com/vi/1IWdeW_vMD8/maxresdefault.jpg)](https://youtu.be/1IWdeW_vMD8)
-
-**▶ [Watch the 2-minute demo on YouTube](https://youtu.be/1IWdeW_vMD8)**
-
-</div>
-
-| Time | What to show |
-|---|---|
-| 0:00 | *"I don't search for jobs. I search for the ecosystems that contain opportunities."* |
-| 0:15 | Agent Console → type the request → **Hunt** |
-| 0:35 | The search plan and source cards stream in (✓ counts and response times, ✕ failures handled) |
-| 0:55 | Ranked opportunities with score badges |
-| 1:20 | Click a company → Company Intelligence (why, hiring signals, people, source links) |
-| 1:40 | **SYNC TO GOOGLE SHEETS** |
-| 1:50 | Source Graph → *"It searches the world's ecosystems for opportunities."* |
-
-**LIVE vs DEMO:** the header toggle picks the mode. **LIVE** calls the real connectors. **DEMO** replays a labelled sample dataset (amber `DEMO DATA` banner) so the video works even offline.
 
 ---
 

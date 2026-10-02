@@ -7,8 +7,7 @@
 
 *An AI agent that searches the internet's hidden opportunity graph (university career fairs, founder hiring threads, maps, open source, trading ecosystems and curated lead reports) to find jobs, clients and companies before they reach the job boards.*
 
-[![Hackathon](https://img.shields.io/badge/Multi--App_AI_Agent_Hackathon-2026-8b5cf6?style=for-the-badge)](https://multiappagenthackathon.com/)
-[![Demo](https://img.shields.io/badge/▶_Watch-2--min_demo-ef4444?style=for-the-badge)](https://youtu.be/1IWdeW_vMD8)
+
 [![Tests](https://img.shields.io/badge/reliability_tests-7%2F7_passing-10b981?style=for-the-badge)](#-reliability--evaluation)
 
 ![Node](https://img.shields.io/badge/Node-%E2%89%A518-339933?logo=nodedotjs&logoColor=white)

@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◎ OpportunityHunter · `DARKMATTER`
+# ◎ OpportunityHunter · 
 
 ### GLOBAL OPPORTUNITY INTELLIGENCE
 **One agent. Hundreds of sources. Better opportunities.**

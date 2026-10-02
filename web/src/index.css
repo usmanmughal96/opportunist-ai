@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
+body { color: #e5e7eb; }
+.glass { background: linear-gradient(180deg, rgba(20,26,43,.75), rgba(12,16,28,.75)); border: 1px solid rgba(148,163,184,.12); backdrop-filter: blur(10px); }
+.grid-bg { background-image: radial-gradient(circle at 20% 0%, rgba(99,102,241,.18), transparent 40%), radial-gradient(circle at 90% 10%, rgba(16,185,129,.12), transparent 35%), linear-gradient(rgba(148,163,184,.04) 1px, transparent 1px), linear-gradient(90deg, rgba(148,163,184,.04) 1px, transparent 1px); background-size: auto, auto, 32px 32px, 32px 32px; }
+@keyframes flow { to { stroke-dashoffset: -20; } }
+.flow { stroke-dasharray: 4 6; animation: flow 1s linear infinite; }
+@keyframes fadeUp { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.fade-up { animation: fadeUp .35s ease both; }
